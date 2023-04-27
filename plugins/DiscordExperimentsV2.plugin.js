@@ -3,6 +3,10 @@
  * @description Remake of the discordExperiments. Please make sure to exit out of settings everytime you turn this plugin on or off for it to have an effect.
  * @author MrScarySpaceCat
  * @version 1.0.0
+ * @authorLink https://github.com/MrScarySpaceCat
+ * @invite https://discord.gg/uefta
+ * @website https://github.com/MrScarySpaceCat/BetterDiscordThings
+ * @source https://github.com/MrScarySpaceCat/BetterDiscordThings/blob/master/plugins/DiscordExperimentsV2.plugin.js
  */
 
 
